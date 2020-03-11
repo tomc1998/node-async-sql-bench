@@ -1,0 +1,16 @@
+{
+  "name": "sql-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2-promise": "^0.1.4",
+    "q": "^1.5.1"
+  }
+}
